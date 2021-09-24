@@ -1,0 +1,37 @@
+
+:root {
+  --black: hsl(0, 0%, 15%);
+  --d-grey: #8C8C8C;
+  --m-grey: #EBEBEB;
+  --map-grey: #d3d3d3;
+  --l-grey: #F7F7F7;
+  --white: #FFFFFF;
+  --primary-color: #306ED5;
+  --button-border: rgba(59, 99, 165, 0.8);
+  --secondary-color: #DD1367;
+  --primary-tertiary-color: #D0E0FB;
+  --sdg1-primary: #E5243B;
+  --sdg2-primary: #D3A029;
+  --sdg3-primary: #4C9F38;
+  --sdg4-primary: #C31F33;
+  --sdg5-primary: #EF402B;
+  --sdg6-primary: #26BDE2;
+  --sdg7-primary: #FCC30B;
+  --sdg8-primary: #A21942;
+  --sdg9-primary: #FD6925;
+  --sdg10-primary: #DD1367;
+  --sdg11-primary: #FD9D24;
+  --sdg12-primary: #BF8B2E;
+  --sdg13-primary: #3F7E44;
+  --sdg14-primary: #0A97D9;
+  --sdg15-primary: #56C02B;
+  --sdg16-primary: #00689D;
+  --sdg17-primary: #19486A;
+  --people-primary: #6B71BF;
+  --prosperity-primary: #F79406;
+  --planet-primary: #27AE61;
+  --planet-sb100: #C73462;
+  --planet-early: #4D83BE;
+  --planet-transmission: #224C41;
+  --planet-limited: #DDA343;
+}

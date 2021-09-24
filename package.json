@@ -1,0 +1,42 @@
+{
+	"name": "eclairity-svelte",
+	"version": "3.0.0",
+	"scripts": {
+		"gdoc": "node tasks/fetch-google.cjs",
+		"style": "node tasks/style-dictionary.cjs",
+		"dev": "svelte-kit dev",
+		"build": "svelte-kit build",
+		"start": "svelte-kit start",
+		"lint": "prettier --check .",
+		"format": "prettier --write ."
+	},
+	"devDependencies": {
+		"@rollup/plugin-dsv": "2.0.1",
+		"@sveltejs/adapter-node": "1.0.0-next.24",
+		"@sveltejs/adapter-static": "1.0.0-next.13",
+		"@sveltejs/kit": "1.0.0-next.112",
+		"@types/d3": "^7.0.0",
+		"archieml": "0.4.2",
+		"autoprefixer": "10.2.6",
+		"d3": "^6.7.0",
+		"feather-icons": "4.28.0",
+		"layercake": "4.1.0",
+		"lodash.debounce": "4.0.8",
+		"node-fetch": "2.6.1",
+		"postcss": "8.3.0",
+		"prettier": "2.3.0",
+		"prettier-plugin-svelte": "2.3.0",
+		"rollup-plugin-svg": "2.0.0",
+		"style-dictionary": "3.0.0",
+		"svelte": "3.38.2",
+		"svelte-intersection-observer": "^0.7.1",
+		"svelte-preprocess": "4.7.3",
+		"vite": "2.3.6",
+		"vite-plugin-svgstring": "1.0.0"
+	},
+	"type": "module",
+	"engines": {
+		"node": ">= 12.18.0"
+	},
+	"browserslist": "> 0.5%, last 4 versions, not ie <= 11, not ie_mob <= 11"
+}

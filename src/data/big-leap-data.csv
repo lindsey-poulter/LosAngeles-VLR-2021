@@ -1,0 +1,10 @@
+Category,Amount,Percent, Description
+Food,14824201.5,40,"grocery stores, fast food, restaurants, convenience store"
+Retail,6771308.63,18,"discount stores, clothing stores, department stores"
+Financial,6301398.56,17,"money transfer, money orders, travelers checks"
+Utilities,4374545.97,12,"water, gas, electricity, telecommunications"
+Transit,2176043.19,6,"gas, auto parts, taxis"
+Home,1365216.92,4,"home supply, furniture, appliances"
+Health,646431.27,2,"pharmacy, cosmetic stores"
+Services,195604.75,.5,"insurance services, marketing, courier"
+Other,137311.54,.37

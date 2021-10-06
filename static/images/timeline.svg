@@ -1,0 +1,85 @@
+<svg width="1067" height="285" viewBox="0 0 1067 285" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="102" y1="109.5" x2="972" y2="109.5" stroke="#8C8C8C" stroke-dasharray="2 2"/>
+<g filter="url(#filter0_d)">
+<circle cx="92" cy="109" r="9" fill="white"/>
+<circle cx="92" cy="109" r="8.5" stroke="#212121"/>
+</g>
+<circle cx="92" cy="109" r="5" fill="#306ED5"/>
+<g filter="url(#filter1_d)">
+<circle cx="312" cy="109" r="9" fill="white"/>
+<circle cx="312" cy="109" r="8.5" stroke="#212121"/>
+</g>
+<circle cx="312" cy="109" r="5" fill="#306ED5"/>
+<g filter="url(#filter2_d)">
+<circle cx="532" cy="109" r="9" fill="white"/>
+<circle cx="532" cy="109" r="8.5" stroke="#212121"/>
+</g>
+<circle cx="532" cy="109" r="5" fill="#306ED5"/>
+<g filter="url(#filter3_d)">
+<circle cx="752" cy="109" r="9" fill="white"/>
+<circle cx="752" cy="109" r="8.5" stroke="#212121"/>
+</g>
+<circle cx="752" cy="109" r="5" fill="#306ED5"/>
+<g filter="url(#filter4_d)">
+<circle cx="972" cy="109" r="9" fill="white"/>
+<circle cx="972" cy="109" r="8.5" stroke="#212121"/>
+</g>
+<circle cx="972" cy="109" r="5" fill="#306ED5"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Lato" font-size="16" letter-spacing="0.03em"><tspan x="240.732" y="18.192">Mayor Eric Garcetti </tspan><tspan x="217.175" y="42.192">commits L.A. to the SDGs</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Itim" font-size="18" letter-spacing="0.045em"><tspan x="292.362" y="67.8">2017</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Lato" font-size="16" letter-spacing="0.03em"><tspan x="695.445" y="18.192">L.A. publishes </tspan><tspan x="703.629" y="42.192">second VLR</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Itim" font-size="18" letter-spacing="0.045em"><tspan x="726.59" y="67.8">2021</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Itim" font-size="18" letter-spacing="0.045em"><tspan x="71.5985" y="162.8">2015</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Lato" font-size="16" letter-spacing="0.03em"><tspan x="38.4247" y="188.192">SDGs adopted </tspan><tspan x="68.6963" y="212.192">by UN</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Itim" font-size="18" letter-spacing="0.045em"><tspan x="513.116" y="162.8">2019</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Lato" font-size="16" letter-spacing="0.03em"><tspan x="431.723" y="188.192">L.A. publishes first VLR and </tspan><tspan x="448.911" y="212.192">launches data platform</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Itim" font-size="18" letter-spacing="0.045em"><tspan x="953.052" y="162.8">2030</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Lato" font-size="16" letter-spacing="0.03em"><tspan x="923.874" y="188.192">target date to </tspan><tspan x="909.509" y="212.192">achieve the SDGs</tspan></text>
+<defs>
+<filter id="filter0_d" x="79" y="100" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="299" y="100" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="519" y="100" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter3_d" x="739" y="100" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter4_d" x="959" y="100" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
